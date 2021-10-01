@@ -32,7 +32,7 @@ namespace BinarySearch
                 }
                 else if (userInput == closingCmd)
                 {
-                    break;
+                    Environment.Exit(-1);
                 }
                 else
                 {
